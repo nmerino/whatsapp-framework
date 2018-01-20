@@ -6,7 +6,7 @@
 ###### Everything seems to be working nice now
 Mac is a whatsapp bot/framework I made as a weekend project. The project itself has all you need to make your own custom bot easily.
 
-Mac has built-in human behaivor so you only have to worry about the functions you make. Every module works completely separated from the core, this means that you can erease every module and mac will keep working
+Mac has built-in human behaivor so you only have to worry about the functions you make. Every module works completely separated from the core, this means that you can erase every module and mac will keep working
 
 _This needs **Python 3.5**_
 
